@@ -1,6 +1,0 @@
-@echo off
-echo Installing dependency...
-pip install customtkinter -q
-echo Starting OSINT Checklist...
-python osint_checklist.py
-pause
